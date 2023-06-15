@@ -27,19 +27,19 @@
                 <div class="navbar-brand-box">
                     <a href="#" class="logo logo-dark">
                         <span class="logo-sm">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('logo andara.png') }}" alt="" height="30">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('logo andara.png') }}" alt="" height="30">
                         </span>
                     </a>
 
                     <a href="#" class="logo logo-light">
                         <span class="logo-sm">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('logo andara.png') }}" alt="" height="30">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('logo andara.png') }}" alt="" height="30">
                         </span>
                     </a>
                 </div>
@@ -54,15 +54,15 @@
                 <div class="dropdown d-inline-block">
                     <button type="button" class="btn header-item waves-effect" id="page-header-user-dropdown"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <img class="rounded-circle header-profile-user" src="{{ asset('assets/images/user.png') }}"
+                        <img class="rounded-circle header-profile-user" src="{{ asset('assets/images/koding.jpg') }}"
                              alt="Avatar">
-                        <span class="d-none d-xl-inline-block ml-1">Nama User</span>
+                        <span class="d-none d-xl-inline-block ml-1">Admin</span>
                         <i class="mdi mdi-chevron-down d-none d-xl-inline-block"></i>
                     </button>
                     <div class="dropdown-menu dropdown-menu-right">
-                        <a class="dropdown-item" href="#"><i class="bx bx-user font-size-16 align-middle mr-1"></i> Profile</a>
+                        <a class="dropdown-item" href="#"><i class="bx bx-user font-size-16 align-middle mr-1"></i> Profil</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-danger" href="#"><i class="bx bx-power-off font-size-16 align-middle mr-1 text-danger"></i> Logout</a>
+                        <a class="dropdown-item text-danger" href="#"><i class="bx bx-power-off font-size-16 align-middle mr-1 text-danger"></i> Keluar</a>
                     </div>
                 </div>
 
@@ -87,7 +87,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12">
-                        2020 © Renandatta
+                        2023 © PT ANDARA
                     </div>
                 </div>
             </div>

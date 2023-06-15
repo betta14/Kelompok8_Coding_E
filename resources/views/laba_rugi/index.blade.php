@@ -15,7 +15,7 @@
     <table class="table bg-main" >
         <tr>
             <td class="bg-light" id="laba_rugi_search">
-                <h5 class="mt-0 mb-4 text-white"><i class="mdi mdi-database-search mr-2"></i> Search</h5>
+                <h5 class="mt-0 mb-4 text-white"><i class="mdi mdi-database-search mr-2"></i> Pencarian</h5>
                 <form id="search_form">
                     @csrf
                     <div class="row">
@@ -31,7 +31,7 @@
                         </div>
                         <div class="col-md-2">
                             <br>
-                            <button type="submit" class="btn btn-primary btn-block mt-2">Search</button>
+                            <button type="submit" class="btn btn-primary btn-block mt-2">Cari</button>
                         </div>
                         <div class="col-md-2">
                             <br>
